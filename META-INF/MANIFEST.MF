@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.taoapp.caipiao.Startor
+Class-Path: . lib/JNativeHook.jar lib/swt.jar lib/tao.jar
+Created-By: jt
